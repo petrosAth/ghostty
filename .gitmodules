@@ -1,0 +1,9 @@
+[submodule "shaders/ghostty-shaders"]
+	path = shaders/ghostty-shaders
+	url = git@github.com:0xhckr/ghostty-shaders
+[submodule "shaders/ghostty-cursor-shaders"]
+	path = shaders/ghostty-cursor-shaders
+	url = git@github.com:sahaj-b/ghostty-cursor-shaders.git
+[submodule "shaders/ghostty-shader-playground"]
+	path = shaders/ghostty-shader-playground
+	url = git@github.com:KroneCorylus/ghostty-shader-playground.git
