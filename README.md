@@ -24,3 +24,10 @@ Or, if already cloned:
 ```sh
 git submodule update --init --recursive
 ```
+
+## Theme
+
+The configuration defaults to `nord` and optionally includes
+`~/.config/theme/theme.conf`. The shared file uses `theme=<name>` syntax, so it
+is valid both as Ghostty configuration and as shell data. Reload Ghostty after
+changing the shared file (`Cmd+Shift+,` on macOS or `Ctrl+Shift+,` on Linux).
