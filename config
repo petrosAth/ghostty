@@ -3,6 +3,7 @@ background-blur = true
 confirm-close-surface = false
 font-family = "JetBrainsMono Nerd Font"
 font-size = 13
+adjust-cell-height = 20%
 theme = gruvbox
 config-file = ?../theme/theme.conf
 window-decoration = client
